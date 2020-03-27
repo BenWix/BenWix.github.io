@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "THE SWITCH FROM MACHINES TO SOFTWARE"
-date:       2020-03-27 21:12:36 +0000
+date:       2020-03-27 17:12:37 -0400
 permalink:  the_switch_from_machines_to_software
 ---
 
