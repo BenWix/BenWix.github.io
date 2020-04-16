@@ -5,9 +5,11 @@ date:       2020-04-16 09:15:35 -0400
 permalink:  the_first_project
 ---
 
-    Starting work on the first Flatiron Project was an incredibly exciting and slightly nerve wracking time. I was bouncing around in my head, making sure I knew everything I needed to accomplish the project. I was working to push hard throught the curriculum to get to the project on time or early. I wanted to make sure I was set up for success. 
-		
-		Thankfully, I was able to get to the project a little early and could put in some good work the weekend before project week, this started to bolster my confidence a little bit. The more time I had, the more likely I would be to succeed. When I dove into the project I wanted to make sure that it would not only make a good project to demonstrate my skills, but that it would also push me in some of the areas that I was weak. Every opporunity, can be an opportunity to turn a weakness into a strength. I identified my weakness before I dove in, so I knew I needed to find a project that would utilize gems more heavily. I found an API that was about rock climbing routes (climbing is my all time favorite activity), so I figured this could be a great fit for me. Looking at the big hurdles I would face in the project, I initially identified three.
+
+  Starting work on the first Flatiron Project was an incredibly exciting and slightly nerve wracking time. I was bouncing around in my head, making sure I knew everything I needed to accomplish the project. I was working to push hard throught the curriculum to get to the project on time or early. I wanted to make sure I was set up for success. 
+
+
+  Thankfully, I was able to get to the project a little early and could put in some good work the weekend before project week, this started to bolster my confidence a little bit. The more time I had, the more likely I would be to succeed. When I dove into the project I wanted to make sure that it would not only make a good project to demonstrate my skills, but that it would also push me in some of the areas that I was weak. Every opporunity, can be an opportunity to turn a weakness into a strength. I identified my weakness before I dove in, so I knew I needed to find a project that would utilize gems more heavily. I found an API that was about rock climbing routes (climbing is my all time favorite activity), so I figured this could be a great fit for me. Looking at the big hurdles I would face in the project, I initially identified three.
 
 1. To access the API, I would need to get that latitude and longitude of a location.
 2. To get the latitude and longitude, I would need to use a gem I hadn't used before. Geocode.
