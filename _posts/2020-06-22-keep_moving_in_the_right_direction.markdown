@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Keep Moving (in the Right Direction)"
-date:       2020-06-22 04:28:46 +0000
+date:       2020-06-22 00:28:47 -0400
 permalink:  keep_moving_in_the_right_direction
 ---
 
